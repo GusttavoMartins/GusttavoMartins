@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gustavo Martins</h1>
-<h3 align="center">Desenvolvedor e Ceintista de Dados</h3>
-<img src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif" alt="css3" width="40" height="40"/>
-
-- 🌱 I’m currently learning **Análise e Desenvolvimento de Sistemas - FATECRP**
-
-- 📫 How to reach me **gustavo10887@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Hi, I'm Gustavo Martins</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo10887/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo10887/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo10887/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gustavo10887/"/></a>
 </p>
+
+<h3 align="left">Desenvolvedor e Ceintista de Dados</h3>
+<p>
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Rio Preto, trago uma base sólida em programação e um pensamento analítico. Além disso, eu sou um desenvolvedor e cientista de dados, combinando minha paixão por desafios tecnológicos com a capacidade de analisar e extrair insights valiosos dos dados. Estou constantemente em busca de soluções criativas e eficientes, aplicando meu conhecimento multidisciplinar para enfrentar os problemas mais complexos e contribuir para avanços inovadores no mundo da tecnologia e de dados.
+</p>
+
+- Atualmente estou estudando flutter, firebase, python para machine learning, react, node.
+
+- How to reach me **gustavo10887@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 
