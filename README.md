@@ -1,4 +1,4 @@
-### Hi there 👋
+### "Aprender é como plantar sementes na mente e o conhecimento será sempre a nossa colheita mais inspiradora."
 
 <!--
 **GusttavoMartins/GusttavoMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
