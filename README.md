@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Gustavo Martins</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo10887/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gustavo10887/"/></a>
+<a href="https://www.linkedin.com/in/gustavo10887/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/gustavo10887/"/></a>
 </p>
 
 <h3 align="left">Desenvolvedor e Ceintista de Dados</h3>
