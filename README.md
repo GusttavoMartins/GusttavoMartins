@@ -9,6 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Rio Preto, trag
 </p>
 
 - Atualmente estou estudando flutter, firebase, python para machine learning, react, node.
+  
 <h3>Contato:</h3>
 
 -  ✉  **gustavo10887@gmail.com**
