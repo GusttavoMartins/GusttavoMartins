@@ -5,7 +5,7 @@
 
 <h3 align="left">Desenvolvedor e Ceintista de Dados</h3>
 <p>
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Rio Preto, trago uma base sólida em programação e um pensamento analítico. Além disso, eu sou um desenvolvedor e cientista de dados, combinando minha paixão por desafios tecnológicos com a capacidade de analisar e extrair insights valiosos dos dados. Estou constantemente em busca de soluções criativas e eficientes, aplicando meu conhecimento multidisciplinar para enfrentar os problemas mais complexos e contribuir para avanços inovadores no mundo da tecnologia e de dados.
+Análise e Desenvolvimento de Sistemas na FATEC Rio Preto, trago uma base sólida em programação e um pensamento analítico. Além disso, eu sou um desenvolvedor e cientista de dados, combinando minha paixão por desafios tecnológicos com a capacidade de analisar e extrair insights valiosos dos dados. Estou constantemente em busca de soluções criativas e eficientes, aplicando meu conhecimento multidisciplinar para enfrentar os problemas mais complexos e contribuir para avanços inovadores no mundo da tecnologia e de dados.
 </p>
 
 - Atualmente estou estudando flutter, firebase, python para machine learning, react, node.
@@ -21,5 +21,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Rio Preto, trag
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusttavomartins&show_icons=true&locale=en&layout=compact" alt="gusttavomartins" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gusttavomartins&show_icons=true&locale=en" alt="gusttavomartins" /></p>
+![SUAS estatísticas do github](https://github-readme-stats.vercel.app/api?username=GusttavoMartins) 
